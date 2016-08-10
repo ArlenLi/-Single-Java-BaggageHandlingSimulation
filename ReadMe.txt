@@ -1,0 +1,1 @@
+This project simulates the process of baggage simulation in the airport with animation. System specification could be checked in the Specification.pdf.
